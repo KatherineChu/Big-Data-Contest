@@ -298,7 +298,7 @@ textarea:focus {
 .btn-large {
   padding: 0 77px;
   border-radius: 5px;
-  background-color: black;
+  background-color: rgba(110, 105, 105, 0.6);;
   text-transform: capitalize;
   font-size: 1rem;
 }
